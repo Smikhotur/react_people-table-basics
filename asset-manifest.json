@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Smikhotur/react_people-table-basics/static/css/main.0ea25473.chunk.css",
-    "main.js": "/Smikhotur/react_people-table-basics/static/js/main.e24c1334.chunk.js",
-    "main.js.map": "/Smikhotur/react_people-table-basics/static/js/main.e24c1334.chunk.js.map",
-    "runtime-main.js": "/Smikhotur/react_people-table-basics/static/js/runtime-main.2e79885f.js",
-    "runtime-main.js.map": "/Smikhotur/react_people-table-basics/static/js/runtime-main.2e79885f.js.map",
-    "static/js/2.55ff12c9.chunk.js": "/Smikhotur/react_people-table-basics/static/js/2.55ff12c9.chunk.js",
-    "static/js/2.55ff12c9.chunk.js.map": "/Smikhotur/react_people-table-basics/static/js/2.55ff12c9.chunk.js.map",
-    "index.html": "/Smikhotur/react_people-table-basics/index.html",
-    "precache-manifest.043a5c22bf6c31d59e8835038640cfb7.js": "/Smikhotur/react_people-table-basics/precache-manifest.043a5c22bf6c31d59e8835038640cfb7.js",
-    "service-worker.js": "/Smikhotur/react_people-table-basics/service-worker.js",
-    "static/css/main.0ea25473.chunk.css.map": "/Smikhotur/react_people-table-basics/static/css/main.0ea25473.chunk.css.map",
-    "static/js/2.55ff12c9.chunk.js.LICENSE.txt": "/Smikhotur/react_people-table-basics/static/js/2.55ff12c9.chunk.js.LICENSE.txt"
+    "main.css": "/Smikhotur/react_people-table/static/css/main.0ea25473.chunk.css",
+    "main.js": "/Smikhotur/react_people-table/static/js/main.e24c1334.chunk.js",
+    "main.js.map": "/Smikhotur/react_people-table/static/js/main.e24c1334.chunk.js.map",
+    "runtime-main.js": "/Smikhotur/react_people-table/static/js/runtime-main.a13708b2.js",
+    "runtime-main.js.map": "/Smikhotur/react_people-table/static/js/runtime-main.a13708b2.js.map",
+    "static/js/2.55ff12c9.chunk.js": "/Smikhotur/react_people-table/static/js/2.55ff12c9.chunk.js",
+    "static/js/2.55ff12c9.chunk.js.map": "/Smikhotur/react_people-table/static/js/2.55ff12c9.chunk.js.map",
+    "index.html": "/Smikhotur/react_people-table/index.html",
+    "precache-manifest.1be83b95fd2d0abd1cf0062c3b18eb7a.js": "/Smikhotur/react_people-table/precache-manifest.1be83b95fd2d0abd1cf0062c3b18eb7a.js",
+    "service-worker.js": "/Smikhotur/react_people-table/service-worker.js",
+    "static/css/main.0ea25473.chunk.css.map": "/Smikhotur/react_people-table/static/css/main.0ea25473.chunk.css.map",
+    "static/js/2.55ff12c9.chunk.js.LICENSE.txt": "/Smikhotur/react_people-table/static/js/2.55ff12c9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.2e79885f.js",
+    "static/js/runtime-main.a13708b2.js",
     "static/js/2.55ff12c9.chunk.js",
     "static/css/main.0ea25473.chunk.css",
     "static/js/main.e24c1334.chunk.js"
